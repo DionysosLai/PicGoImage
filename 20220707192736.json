@@ -1,0 +1,167 @@
+{
+	"Hash": 3663276684,
+	"TimeStamp": 3663276684,
+	"Guid": "4271C7EA4081C8BF5CF9CF906E66AA97",
+	"PointMap":
+	{
+		"OwnerCatagory": 0,
+		"OffsetFromIndex":
+		{
+			"bIsFlagSet": false,
+			"bIsTrivial": true,
+			"DataSize": 5,
+			"TrivialOffset": 0
+		},
+		"IndexFromOffset":
+		{
+			"bIsFlagSet": false,
+			"bIsTrivial": true,
+			"DataSize": 5,
+			"TrivialOffset": 0
+		}
+	},
+	"VertexMap":
+	{
+		"OwnerCatagory": 1,
+		"OffsetFromIndex":
+		{
+			"bIsFlagSet": false,
+			"bIsTrivial": true,
+			"DataSize": 5,
+			"TrivialOffset": 0
+		},
+		"IndexFromOffset":
+		{
+			"bIsFlagSet": false,
+			"bIsTrivial": true,
+			"DataSize": 5,
+			"TrivialOffset": 0
+		}
+	},
+	"PrimitiveMap":
+	{
+		"OwnerCatagory": 2,
+		"OffsetFromIndex":
+		{
+			"bIsFlagSet": false,
+			"bIsTrivial": true,
+			"DataSize": 1,
+			"TrivialOffset": 0
+		},
+		"IndexFromOffset":
+		{
+			"bIsFlagSet": false,
+			"bIsTrivial": true,
+			"DataSize": 1,
+			"TrivialOffset": 0
+		}
+	},
+	"PrimitiveList":
+	{
+		"PrimitiveCapacity": 1,
+		"PrimitiveCount": 1,
+		"PrimitiveList": [
+			{
+				"MyOffset": 0,
+				"Closed": false,
+				"VertexList":
+				{
+					"bIsFlagSet": false,
+					"bIsTrivial": true,
+					"DataSize": 5,
+					"TrivialOffset": 0
+				}
+			}
+		]
+	},
+	"PointMetatable":
+	{
+		"Header": [
+			"Position[3]",
+			"Width",
+			"Tangent[3]"
+		],
+		"Metarow": [
+			{
+				"Position[3]": [ 15462.259765625, -920.03265380859398, 25325.892578125 ],
+				"Tangent[3]": [ 10, 0, 0 ],
+				"Width": 50
+			},
+			{
+				"Position[3]": [ 15603.8349609375, -920.03308105468795, 25327.517578125 ],
+				"Tangent[3]": [ 39.477867126465, 8.1380210999999994e-05, -30.036785125731999 ],
+				"Width": 50
+			},
+			{
+				"Position[3]": [ 15689.0712890625, -920.02966308593795, 25037.3984375 ],
+				"Tangent[3]": [ 25.538249969481999, 0.000305175781, -55.587566375732003 ],
+				"Width": 50
+			},
+			{
+				"Position[3]": [ 15757.064453125, -920.03125, 24993.9921875 ],
+				"Tangent[3]": [ 30.487468719481999, -1.0172526000000001e-05, -18.852214813231999 ],
+				"Width": 50
+			},
+			{
+				"Position[3]": [ 15882.0517578125, -920.0322265625, 25032.55859375 ],
+				"Tangent[3]": [ 20.831218719481999, -0.00016276042199999999, 6.427734375 ],
+				"Width": 50
+			}
+		]
+	},
+	"VertexMetatable":
+	{
+		"Header": [
+			"PointRef"
+		],
+		"Metarow": [
+			{
+				"PointRef": 0
+			},
+			{
+				"PointRef": 1
+			},
+			{
+				"PointRef": 2
+			},
+			{
+				"PointRef": 3
+			},
+			{
+				"PointRef": 4
+			}
+		]
+	},
+	"PrimitiveMetatable":
+	{
+		"Header": [
+			"GeoPrimType",
+			"AtomicGraph",
+			"Radius"
+		],
+		"Metarow": [
+			{
+				"AtomicGraph": "MagicGraph'/Game/HXGame/Map/HXWorldMap/PCGAsset/GeoAtomic/Mountain.Mountain'",
+				"GeoPrimType": 12832,
+				"Radius": 30
+			}
+		]
+	},
+	"DetailMetatable":
+	{
+		"Header": [
+			"GeoPrimType"
+		],
+		"Metarow": [
+			{
+				"GeoPrimType": 12832
+			}
+		]
+	},
+	"PointGroups": null,
+	"VertexGroups": null,
+	"PrimitiveGroups": null,
+	"BoundingMin": "X=15462.260 Y=-920.033 Z=24993.992",
+	"BoundingMax": "X=15882.052 Y=-920.030 Z=25327.518",
+	"Transform": "0.000000,0.000000,0.000000|0.000000,0.000000,0.000000|1.000000,1.000000,1.000000"
+}
